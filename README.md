@@ -1,7 +1,7 @@
 # Antti Harju's personal website
 Welcome! Here are some important links:
 * Reach me on [LinkedIn](https://www.linkedin.com/in/antti-harju/). Please attach a note to your connect request.
-* View my Git repos: [personal](https://github.com/anttiharju), [university](https://gitlab.jyu.fi/users/anvemaha/projects).
+* View my Git repos: [personal](https://github.com/anttiharju?tab=repositories), [university](https://gitlab.jyu.fi/users/anvemaha/projects).
 * I've also made small games as a hobby: [GameJolt](https://gamejolt.com/@anttiharju/games), [Google Play](https://play.google.com/store/apps/developer?id=anttharj)
 
 ## About me
