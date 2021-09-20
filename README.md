@@ -14,6 +14,6 @@ Interests include but are not limited to: programming, project management, games
 I also lurk a lot on [Hacker News](https://news.ycombinator.com/user?id=anttiharju).
 
 <!---
-Thanks https://github.com/LeoColomb/perfectmotherfuckingwebsite
+Thanks https://perfectmotherfuckingwebsite.com/
 I know it's not meant to be taken literally, but it's a pretty good template.
 -->
