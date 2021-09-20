@@ -4,4 +4,6 @@ Welcome! Here are some links:
 * Git repos: [personal](https://github.com/anttiharju), [university](https://gitlab.jyu.fi/users/anvemaha/projects)
 * On occasion I make small games: [GameJolt](https://gamejolt.com/@anttiharju/games), [Google Play](https://play.google.com/store/apps/developer?id=anttharj)
 
-[//]: # (Thanks https://github.com/LeoColomb/perfectmotherfuckingwebsite)
+<!---
+Thanks https://github.com/LeoColomb/perfectmotherfuckingwebsite
+-->
