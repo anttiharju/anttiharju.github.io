@@ -5,15 +5,16 @@ Welcome! Here are some important links:
 * I've also made small games as a hobby: [GameJolt](https://gamejolt.com/@anttiharju/games), [Google Play](https://play.google.com/store/apps/developer?id=anttharj)
 
 ## About me
-Interests include but are not limited to: programming, project management, games industry, running, climbing/bouldering, reading and learning piano. Below are some books I've found helpful:
+Interests include but are not limited to: programming, project management, games industry, running, climbing/bouldering, learning piano and reading. Below are some books I've found helpful:
 * Life 3.0 by Max Tegmark
 * A Theory of Fun for Game Design by Raph Koster
-* Project Management for Information Systems (5th Edition)
+* Project Management for Information Systems (5th Edition) by James Cadle
+* Extreme Programming Explained (Second Edition) by Kent Beck
 * Clean Code by Robert C. Martin
 
 I also lurk a lot on [Hacker News](https://news.ycombinator.com/user?id=anttiharju).
 
 <!---
-Thanks https://perfectmotherfuckingwebsite.com/
+https://perfectmotherfuckingwebsite.com/
 I know it's not meant to be taken literally, but it's a pretty good template.
 -->
