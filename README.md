@@ -5,7 +5,7 @@ Welcome! Here are some important links:
 * I've also made small games as a hobby: [GameJolt](https://gamejolt.com/@anttiharju/games), [Google Play](https://play.google.com/store/apps/developer?id=anttharj)
 
 ## About me
-Interests include but are not limited to: software engineering, project management, learning French, gym, running and reading books. Below are some books I've found helpful:
+Interests include but are not limited to: software engineering, project management, gym, running and reading books. Below are some books I've found helpful:
 * Life 3.0 by Max Tegmark
 * A Theory of Fun for Game Design by Raph Koster
 * Project Management for Information Systems (5th Edition) by James Cadle
