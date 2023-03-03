@@ -1,7 +1,7 @@
 # Antti Harju's personal website
 Welcome! Here are some important links:
 * Reach me on [LinkedIn](https://www.linkedin.com/in/antti-harju), attaching a note to your request helps.
-* View my [GitHub repos](https://github.com/anttiharju?tab=repositories).
+* View my [GitHub profile](https://github.com/anttiharju).
 * I've also made small games as a hobby: [GameJolt](https://gamejolt.com/@anttiharju/games).
 
 ## About me
