@@ -1,4 +1,4 @@
-# Antti Harju's personal website
+# Antti Harju's website
 
 Welcome! Here are some important links:
 
