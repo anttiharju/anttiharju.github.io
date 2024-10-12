@@ -2,9 +2,9 @@
 
 Welcome! Here are some important links:
 
-- Reach me on [LinkedIn](https://www.linkedin.com/in/antti-harju), attaching a note to your request helps.
-- View my [GitHub profile](https://github.com/anttiharju).
-- I've also made small games as a hobby: [GameJolt](https://gamejolt.com/@anttiharju/games).
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/antti-harju).
+- View my [GitHub profile](https://github.com/anttiharju), it has an email you can use to reach out.
+- I've made small games as a hobby and released them on [GameJolt](https://gamejolt.com/@anttiharju/games).
 
 ## About me
 
