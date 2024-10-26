@@ -1,0 +1,8 @@
+name: 'Generate permalinks'
+description: 'Generate permalinks for the static site based on permalinks.yml'
+runs:
+  using: 'composite'
+  steps:
+    - name: Generate permalinks
+      shell: sh
+      run: make permalinks
