@@ -1,0 +1,42 @@
+name: GitHub Pages (Jekyll)
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+jobs:
+  build-and-deploy:
+    name: Build and Deploy
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-24.04
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Generate permalinks
+        uses: ./.github/actions/generate-permalinks
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+      - name: Jekyll Build
+        uses: actions/jekyll-build-pages@v1
+        with:
+          source: ./
+          destination: ./_site
+      - name: Upload Pages Artifact
+        uses: actions/upload-pages-artifact@v3
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
+
+# Note: only one job can be queued at a time
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
