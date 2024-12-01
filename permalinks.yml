@@ -1,3 +1,6 @@
 - id: 1
   name: "Antti's bachelor's thesis"
   url: https://jyx.jyu.fi/bitstream/handle/123456789/80239/URN%3aNBN%3afi%3ajyu-202203211936.pdf
+- id: 2
+  name: "Antti's master's thesis"
+  url: https://aaltodoc.aalto.fi/server/api/core/bitstreams/baa10615-5109-4473-b302-b5105623b33d/content
