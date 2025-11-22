@@ -23,6 +23,8 @@ jobs:
         uses: actions/checkout@v4
       - name: Generate permalinks
         uses: ./.github/actions/generate-permalinks
+      - name: Clickable links in urls.md
+        uses: ./.github/actions/clickable-links
       - name: Configure Pages
         uses: actions/configure-pages@v5
       - name: Jekyll Build
