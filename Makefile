@@ -8,5 +8,5 @@ permalinks:
 .PHONY: permalinks
 
 links:
-	@./.github/actions/clickable-links/script.sh
+	@./.github/actions/clickable-links/script.py
 .PHONY: links
