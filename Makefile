@@ -3,7 +3,10 @@ SHELL := /bin/sh
 .SHELLFLAGS := -eu -c
 MAKEFLAGS += --warn-undefined-variables
 
-.PHONY: permalinks
-
 permalinks:
 	@./.github/actions/generate-permalinks/script.sh
+.PHONY: permalinks
+
+links:
+	@./.github/actions/clickable-links/script.sh
+.PHONY: links

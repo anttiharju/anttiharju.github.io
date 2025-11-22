@@ -1,0 +1,8 @@
+name: "Clickable links"
+description: "Convert list of URLs to clickable markdown in urls.md"
+runs:
+  using: "composite"
+  steps:
+    - name: Clickable links
+      shell: sh
+      run: make links
