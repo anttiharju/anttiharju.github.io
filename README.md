@@ -18,6 +18,10 @@ Interests include but are not limited to: DevOps, software engineering, [learnin
 
 Thanks for visiting!
 
+## Miscellaneous
+
+[URLs](./urls) - Links to various resources that I've found to be helpful.
+
 <!---
 https://perfectmotherfuckingwebsite.com/
 I know it's not meant to be taken literally, but it's a pretty good template.
