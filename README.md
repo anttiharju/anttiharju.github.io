@@ -20,7 +20,7 @@ Thanks for visiting!
 
 ## Miscellaneous
 
-- [URLs](./urls) - Links to various resources that I've found to be helpful.
+- [URLs](./urls.md) - Links to various resources that I've found to be helpful.
 - I think Nix is amazing - go support [The NixOS Foundation](https://nixos.org/donate/)
 
 <!---
