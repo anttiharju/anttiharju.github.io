@@ -2,8 +2,8 @@
 
 Welcome! Here are some important links:
 
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/antti-harju).
-- View my [GitHub profile](https://github.com/anttiharju), it has an email you can use to reach out.
+- My [LinkedIn](https://www.linkedin.com/in/antti-harju) -- I won't connect unless I know you.
+- See my projects on [GitHub](https://github.com/anttiharju).
 - I've made small games as a hobby and released them on [GameJolt](https://gamejolt.com/@anttiharju/games).
 
 ## About me
