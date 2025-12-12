@@ -2,7 +2,6 @@
 
 Welcome! Here are some important links:
 
-- My [LinkedIn](https://www.linkedin.com/in/antti-harju) -- I won't connect unless I know you.
 - See my projects on [GitHub](https://github.com/anttiharju).
 - I've made small games as a hobby and released them on [GameJolt](https://gamejolt.com/@anttiharju/games).
 
