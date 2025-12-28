@@ -2,3 +2,9 @@ title: Antti Harju's personal website
 
 sass:
   style: :compressed
+
+markdown: kramdown
+kramdown:
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    css_class: "highlight"
