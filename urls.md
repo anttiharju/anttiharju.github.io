@@ -4,3 +4,4 @@
 - https://nickb.dev/blog/default-musl-allocator-considered-harmful-to-performance/
 - https://nnethercote.github.io/perf-book/
 - https://blog.ielliott.io/per-project-nix-substituters
+- https://workmanlayout.org
