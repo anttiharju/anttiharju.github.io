@@ -7,7 +7,7 @@ Welcome! Here are some important links:
 
 ## About me
 
-Interests include but are not limited to: Platform Engineering, [learning Dutch](./dutch.md), bouldering, and reading books. Below are some books I've found helpful:
+Interests include but are not limited to: Platform Engineering, [learning Dutch](https://www.duolingo.com/profile/anttiharju), bouldering, and reading books. Below are some books I've found helpful:
 
 - Life 3.0 by Max Tegmark (take risks)
 - A Theory of Fun for Game Design by Raph Koster (learning is fun)
