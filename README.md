@@ -7,13 +7,11 @@ Welcome! Here are some important links:
 
 ## About me
 
-Interests include but are not limited to: DevOps, software engineering, [learning Dutch](https://www.duolingo.com/profile/anttiharju), yoga, reading books, gym, and running. Below are some books I've found helpful:
+Interests include but are not limited to: Platform Engineering, [learning Dutch](https://www.duolingo.com/profile/anttiharju), bouldering, and reading books. Below are some books I've found helpful:
 
-- Life 3.0 by Max Tegmark
-- A Theory of Fun for Game Design by Raph Koster
-- Project Management for Information Systems (5th Edition) by James Cadle
-- Extreme Programming Explained (Second Edition) by Kent Beck
-- Clean Code by Robert C. Martin
+- Life 3.0 by Max Tegmark (take risks)
+- A Theory of Fun for Game Design by Raph Koster (learning is fun)
+- Project Management for Information Systems (5th Edition) by James Cadle (how to work with people)
 
 Thanks for visiting!
 
@@ -22,7 +20,4 @@ Thanks for visiting!
 - [URLs](./urls.md) - Links to various resources that I've found to be helpful.
 - I think Nix is amazing - go support [The NixOS Foundation](https://nixos.org/donate/)
 
-<!---
-https://perfectmotherfuckingwebsite.com/
-I know it's not meant to be taken literally, but it's a pretty good template.
--->
+<!--- https://perfectmotherfuckingwebsite.com/ -- I know it's not meant to be taken literally, but it's a pretty good template. -->
