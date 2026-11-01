@@ -11,7 +11,7 @@ Interests include but are not limited to: Platform Engineering, [learning Dutch]
 
 - Life 3.0 by Max Tegmark (take risks)
 - A Theory of Fun for Game Design by Raph Koster (learning is fun)
-- Project Management for Information Systems (5th Edition) by James Cadle (how to work with people)
+- Project Management for Information Systems (5th Edition) by James Cadle (ways to work with people)
 
 Thanks for visiting!
 
